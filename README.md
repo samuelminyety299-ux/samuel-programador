@@ -1,4 +1,4 @@
-# samuel-programador
+# repositorio uno en mi primer curso de git
 Primer repo creado en github
 
 ## descripccion 
